@@ -1,2 +1,2 @@
-chmod is used to create a new user
-root is used to print username
+0-current_working_directory
+1-listit
