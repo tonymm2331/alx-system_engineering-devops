@@ -1,2 +1,2 @@
-# alx-system_engineering-devops.
-* 0x01-shell_permissions
+chmod is used to create a new user
+root is used to print username
