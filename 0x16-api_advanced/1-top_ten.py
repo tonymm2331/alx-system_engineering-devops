@@ -40,4 +40,4 @@ def top_ten(subreddit):
 # Example usage
 subreddit_name = "Python"
 top_ten(subreddit_name)
-
+# Peace
